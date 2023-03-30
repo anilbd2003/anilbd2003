@@ -1,4 +1,13 @@
 ### Hi there 👋
+🔭 I’m currently working on docker and kubernetes projects.
+
+🌱 I’m currently learning AWS CICD pipeline and python script to automate AWS resources.
+
+👯 I’m looking to collaborate with content creators and developers.
+
+🔗 Here is my GitHub link (https://github.com/anilbd2003)
+
+🙏 Thanks for visiting. Happy coding!!! 💪
 
 <!--
 **anilbd2003/anilbd2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
