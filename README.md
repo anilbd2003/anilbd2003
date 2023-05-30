@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AWS CICD pipeline and python script to automate AWS resources.<br><br>👯 I’m looking to collaborate with content creators and developers.<br><br>🔗 Here is my GitHub link (https://github.com/anilbd2003)<br><br> Here is my published article link (https://medium.com/@anilbidary)🙏 Thanks for visiting. Happy coding!!! 💪
+🔭 I’m currently working on AWS CICD pipeline and python script to automate AWS resources.<br><br>👯 I’m looking to collaborate with content creators and developers.<br><br>🔗 Here is my GitHub link (https://github.com/anilbd2003)<br><br> Here is my published article link (https://medium.com/@anilbidary) <br><br>🙏 Thanks for visiting. Happy coding!!! 💪
 
 ![cidc](https://user-images.githubusercontent.com/57112052/236732251-3ddd7aab-c343-49e3-ba4f-92929f70273c.gif)
 
