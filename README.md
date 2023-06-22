@@ -1,6 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently working on AWS CICD pipeline and python script to automate AWS resources.<br><br>👯 I’m looking to collaborate with content creators and developers.<br><br>🔗 Here is my GitHub link (https://github.com/anilbd2003)<br><br>🔗 Here is my published article link (https://medium.com/@anilbidary) <br><br>🙏 Thanks for visiting. Happy coding!!! 💪
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 ![cidc](https://user-images.githubusercontent.com/57112052/236732251-3ddd7aab-c343-49e3-ba4f-92929f70273c.gif)
 
 
